@@ -1,1 +1,3 @@
 It was the time of excess, it was the time of frugality.
+high-level abstraction: the general idea or overview of how the logic works, without going into deep technical details (like database fields, API endpoints, or code-level steps)
+It’s like showing the big picture rather than the exact low-level implementation.
